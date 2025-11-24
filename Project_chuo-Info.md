@@ -5,9 +5,17 @@
 #### ぜひ最新版をダウンロードしてお楽しみください✨
 
 
-
-<img src="http://i.imgur.com/Jjwsc.jpg" alt="アイコン" title="アイコン" width="200" height="auto">
-
+<img 
+  src="http://i.imgur.com/Jjwsc.jpg" 
+  alt="シナリオアイコン" 
+  style="
+    position: fixed; 
+    right: 20px; 
+    bottom: 20px;
+    width: 150px; 
+    z-index: 100;
+  "
+>
 
 
 ---
