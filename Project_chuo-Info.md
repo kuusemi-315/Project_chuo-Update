@@ -6,7 +6,7 @@
 
 
 
-<img src="https://cdn.discordapp.com/attachments/1398006514542841897/1398006790242701524/Project\_shadow.png?ex=6925f348\&is=6924a1c8\&hm=e54d7a37313bddc0129d6324d12f33e3b0eb18cabb0f47eed9bc1de9308f3623" alt="アイコン" title="アイコン">
+<img src="https://raw.githubusercontent.com/kuusemi-315/Project\_chuo-Update/refs/heads/master/Project-shadow.png" alt="アイコン" title="アイコン">
 
 
 
