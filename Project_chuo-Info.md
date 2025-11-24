@@ -6,7 +6,7 @@
 
 
 <img 
-  src="https://imgur.com/a/tBxJnXf" 
+  src="https://imgur.com/a/tBxJnXf#nJdLa75" 
   alt="アイコン" 
   style="
     width: 100%; 
