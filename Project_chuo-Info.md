@@ -6,13 +6,9 @@
 
 
 
-<img src="http://i.imgur.com/Jjwsc.jpg" alt="アイコン" title="アイコン" width="200" height="auto">
-
-
-
 ---
 
 
 
-Copyright © 2025 kuusemihttps://www.youtube.com/watch?v=x7H4hFdWi2o
+Copyright © 2025 kuusemi
 
