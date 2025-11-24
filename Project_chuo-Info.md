@@ -6,7 +6,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/kuusemi-315/Project\_chuo-Update/master/Project-shadow.png" alt="アイコン" title="アイコン" width="200" height="auto">
+<img src="http://i.imgur.com/Jjwsc.jpg" alt="アイコン" title="アイコン" width="200" height="auto">
 
 
 
