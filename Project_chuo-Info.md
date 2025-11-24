@@ -6,7 +6,7 @@
 
 
 
-!\[アイコン](https://raw.githubusercontent.com/kuusemi-315/Project\_chuo-Update/refs/heads/master/Project-shadow.png "アイコン")
+!\[アイコン](https://raw.githubusercontent.com/kuusemi-315/Project\_chuo-Update/master/Project-shadow.png "アイコン")
 
 
 
@@ -14,5 +14,5 @@
 
 
 
-Copyright © 2025 kuusemi
+Copyright © 2025 kuusemihttps://www.youtube.com/watch?v=x7H4hFdWi2o
 
