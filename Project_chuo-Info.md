@@ -5,8 +5,13 @@
 #### ぜひ最新版をダウンロードしてお楽しみください✨
 
 
----
-
-
-Copyright © 2025 kuusemi
+<img 
+  src="https://imgur.com/a/tBxJnXf" 
+  alt="アイコン" 
+  style="
+    width: 100%; 
+    height: auto; 
+    display: block;
+  "
+>
 
